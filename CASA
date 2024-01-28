@@ -94,7 +94,7 @@
   </head>
   <body>
     <script>
-      const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbxTAMgmHvBFaUQ7WMYN-lL-gF0B36y7-1u0m3RMCJUlpLKrYSv4QblzQr1GzFKdJYmn/exec";
+      const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbzj9WmO0UfmVk0KhxdCWGxK6fWZcTZo_BclEUFezcasUpv4t6jiD3_UOurJjFTXdZmL/exec";
       var url = document.location.href;
       var k= url.substr(url.lastIndexOf("k=")+2);
 
